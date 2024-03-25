@@ -25,7 +25,7 @@ The Lab Appointment System frontend is built using HTML, CSS, and JavaScript. It
 To set up the frontend locally, follow these steps:
 
 1. Clone this repository to your local machine.
-2. Open the HTML files in your preferred web browser or set up a local development server using tools like Node.js, npm, or Python's SimpleHTTPServer.
+2. Open the HTML files in your preferred web browser or set up a local development server.
 3. Ensure that the frontend can communicate with the backend server by updating the API endpoint URLs if necessary.
 
 ## Contributing
